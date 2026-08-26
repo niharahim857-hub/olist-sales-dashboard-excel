@@ -41,7 +41,7 @@ To analyze Olist sales data and identify sales trends, top-performing customer s
 
 ## 📸 Dashboard Preview
 
-<img width="1332" height="723" alt="Olist Sales Dashboard" src="YOUR_IMAGE_LINK_HERE" />
+<img width="1332" height="723" alt="Olist Sales Dashboard" src="(https://github.com/niharahim857-hub/olist-sales-dashboard-excel/blob/main/Screenshot%202026-08-13%20182534.png?raw=true)" />
 
 ## 🚀 Conclusion
 
