@@ -42,7 +42,7 @@ To analyze Olist sales data and identify sales trends, top-performing customer s
 ## 📸 Dashboard Preview
 
 <img width="1332" height="723" alt="Screenshot 2026-08-13 182534" src="https://github.com/niharahim857-hub/olist-sales-dashboard-excel/blob/main/Screenshot%202026-08-13%20182534.png?raw=true" />
-<img width="1233" height="655" alt="Screenshot 2026-03-01 202025" src="https://github.com/user-attachments/assets/e6d1e1cd-76dd-4333-ad30-2d4848e23227" />
+
 ## 🚀 Conclusion
 
 This analysis provides valuable insights into Olist's sales performance, customer distribution, product demand, and delivery status. The interactive Excel dashboard helps users explore the data dynamically and supports data-driven decision-making to improve business performance.
